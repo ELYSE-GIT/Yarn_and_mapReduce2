@@ -1,5 +1,5 @@
-$ Nom :  RASOLOARIVONY Elysé //
-Lab : Yarn & MapReduce2 $
+Author :  RASOLOARIVONY Elysé
+
 
 
 ### Tools I used :
